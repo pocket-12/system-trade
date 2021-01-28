@@ -1,5 +1,5 @@
 '''
-auカブコムSPIモジュール
+auカブコムSPIモジュールです
 '''
 #必要なモジュールをインストール
 import urllib.request
@@ -7,7 +7,7 @@ import json
 import pprint
 '''
 １．トークン発行 コマンド
-※１で発行したtokenを２以降の各ファイル内の「X-API-KEY」に指定する
+※１で発行したtokenを２以降の各ファイル内の「X-API-KEY」に指定
 '''
 #kabusapi_token.py 
 
